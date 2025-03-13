@@ -20,3 +20,7 @@ Movement (Arrow Keys):
 ← / → : Rotate left/right in place.
 Yaw Rotation: The camera’s front direction updates using trigonometry (cos / sin).
 Free Movement: No collision detection, allowing unrestricted navigation.
+
+<img width="642" alt="1" src="https://github.com/user-attachments/assets/0df206c5-7b38-4013-9ad6-970c2899ae83" />
+<img width="642" alt="2" src="https://github.com/user-attachments/assets/55da3508-8106-454e-b653-cfe24ebdd197" />
+<img width="642" alt="3" src="https://github.com/user-attachments/assets/59233262-3106-4cb8-91b4-563d980f1ac4" />
